@@ -13,8 +13,8 @@ A multiplayer terminal-based dungeon crawler game built with C# and .NET Framewo
 - **Dynamic NPC AI**: Enemies with AI-driven behavior that responds to player actions
 - **Rich Console UI**: Three-column terminal interface showing the map, player stats, and inventory
 
-## Running the Gam
-e
+## Running the Game
+
 ### Prerequisites
 
 - .NET Framework 4.7.2 or later
